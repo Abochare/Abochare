@@ -1,11 +1,31 @@
 Hey, I'm Akanksha 👋
 
-IT Graduate | Aspiring Data Analyst | Salesforce Enthusiast**
+IT Graduate | Aspiring Data Analyst | Salesforce Enthusiast
 
-I enjoy working with data, exploring new technologies, and building practical projects to solve real-world problems.
+I'm an Information Technology graduate interested in Data Analytics, Business Intelligence, and Salesforce Administration. I enjoy working with data, exploring new technologies, and building practical solutions.
 
-🔹 Skills: Python • SQL • Excel • Power BI • Salesforce
-🔹 Currently learning:Data Analytics & Salesforce Administration
-🔹 Interested in: Data Analytics • Business Intelligence • CRM • Automation
-🔹 Open to:Entry-level opportunities, collaborations, and learning
+🛠️ Skills
+
+Data & Analytics:Python • SQL • Excel • Power BI • Pandas • NumPy
+
+Salesforce:Salesforce Administration • CRM
+
+Development:HTML • CSS • JavaScript • Git • GitHub
+
+🌱 Currently Learning
+
+Salesforce Administration
+Data Analytics & Business Intelligence
+Advanced SQL and Power BI
+
+🎯 Career Interests
+
+Data Analytics • Business Intelligence • Salesforce Administration • CRM
+
+🤝 Open to
+
+Entry-level opportunities, meaningful collaborations, and opportunities to learn and grow.
+
+📫 Let's connect and learn together!
+
 
